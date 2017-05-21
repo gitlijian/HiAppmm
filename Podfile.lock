@@ -1,0 +1,15 @@
+PODS:
+  - BaiduMapKit (3.0.0)
+  - LLBootstrapButton (0.0.1)
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - LLBootstrapButton
+
+SPEC CHECKSUMS:
+  BaiduMapKit: de2a726d5296d6b2dc0e974b683af73153608dcd
+  LLBootstrapButton: b4f9735e1684f7525aa3b8aea65c55f0af66348d
+
+PODFILE CHECKSUM: 63a39d73448a9168ac1f736cd6f902bcc7a8390e
+
+COCOAPODS: 1.1.0.rc.2
